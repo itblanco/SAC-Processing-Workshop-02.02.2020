@@ -1,12 +1,12 @@
-#SAC Processing Workshop 02.02.2020
+# SAC Processing Workshop 02.02.2020
 Processing and programming algorithms Workshop at the Staedelschule Architecture Class
 -February 2nd 2020-
 
 *The workshop will be based around the assumption that there is a fundamental shift in technological authority that comes from creating computer applications, instead of just using them. It will pay particular attention to the fundamental concepts of an Object-Oriented programming language (Abstraction, Encapsulation, Inheritance, Polymorphism), and then touches on some more advanced techniques and algorithms. The Java-base 'Processing' programming environment is the primary vehicle for the workshop, but trying to maintain some level of language agnosticism*
 
-##Table of Contents
+## Table of Contents
 
-###Hello
+### Hello
 * Starting Programming | *Why to program?*
 * Projects Examples | *What can you do?*
  * [Processing Pojects Page](https://processing.org/exhibition/)
@@ -20,7 +20,7 @@ Processing and programming algorithms Workshop at the Staedelschule Architecture
  * [Download](https://processing.org/download/)
  * [Reference](https://processing.org/reference/)
 
-###Basics
+### Basics
 * Pixels
  * [The Screen](https://processing.org/reference/size_.html)
  * Coordinate Systems
@@ -34,14 +34,14 @@ Processing and programming algorithms Workshop at the Staedelschule Architecture
  * Processing Variables
  * Draw an Alien Figure with Variables
 
-###Interactivity
+### Interactivity
 * Dynamic Sketch
  * Animation
 * Interaction
  * Mouse
  * Keyboard
 
-###Logic
+### Logic
 * Conditional Statements
  * [IF](https://processing.org/reference/if.html)
  * [ELSE, ELSE IF](https://processing.org/reference/else.html)
@@ -50,7 +50,7 @@ Processing and programming algorithms Workshop at the Staedelschule Architecture
  * [FOR Loop](https://processing.org/reference/for.html)
  * [WHILE Loop](https://processing.org/reference/while.html)
 
-###Modularity and Reusability
+### Modularity and Reusability
 * [Arrays](https://processing.org/reference/Array.html)
 * [ArrayList](https://processing.org/reference/ArrayList.html)
 * Functions
@@ -58,21 +58,21 @@ Processing and programming algorithms Workshop at the Staedelschule Architecture
  * Parameters and Arguments
  * Return Values
 
-###Vector Math
+### Vector Math
 * [PVector Type](https://processing.org/reference/PVector.html)
 * PVector Functions
 
-###Object-Oriented Programming (OOP)
+### Object-Oriented Programming (OOP)
 * Introduction to Objects
 * [Classes](https://processing.org/reference/class.html)
 
-###Images
+### Images
 * [PImage Class](https://processing.org/reference/PImage.html)
 * [Loading Images](https://processing.org/reference/loadImage_.html)
 * [Painting with Images](https://processing.org/examples/pointillism.html)
 * [PImage Pixel Array](https://processing.org/reference/PImage_pixels.html)
 * Image Convolution
 
-###Moving Forward
+### Moving Forward
 * [Coding Train Youtube Channel](https://www.youtube.com/user/shiffman/featured)
 * [Tutorials](https://processing.org/tutorials/)
