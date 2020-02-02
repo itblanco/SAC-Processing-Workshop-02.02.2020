@@ -1,31 +1,38 @@
-float x = 100;
-float y = 100;
-float d = 100;
+float x1;
+float y1;
+float x2;
+float y2;
 
-float dX = 3;
-float dY = 1;
+float dX1;
+float dY1;
+float dX2;
+float dY2;
 
-float x1 = 100;
-float y1 = 10;
-float x2 = 50;
-float y2 = 250;
-
-float dX1 = 0.5;
-float dY1 = 1.3;
-float dX2 = 3.6;
-float dY2 = 2.1;
-
+color c;
 
 void setup() {
   size(1000, 500);
   frameRate(60);
   background(0);
+  
+  x1 = random(width);
+  y1 = random(height);
+  x2 = random(width);
+  y2 = random(height);
+  
+  dX1 = random(-5, 5);
+  dY1 = random(-5, 5);
+  dX2 = random(-5, 5);
+  dY2 = random(-5, 5);
+  
+  c = color(random(255), random(255), random(255));
 }
 
 void draw() {
   //background(0);
+  
   strokeWeight(4);
-  stroke(255, 0, 98, 10); // RGB values or RGBA values
+  stroke(c, 10); // RGB values or RGBA values
   line(x1, y1, x2, y2);
   
   x1 += dX1;
