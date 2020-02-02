@@ -4,7 +4,7 @@ float[] y;
 float[] dX;
 float[] dY;
 
-int count = 100 * 2;
+int count = 10 * 2;
 color c[];
 
 void setup() {
